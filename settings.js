@@ -12,15 +12,15 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownernomer = "94773010580"
-global.ownername = "Fenix"
+global.ownernomer = "2349159895444"
+global.ownername = "PRECIOUS"
 global.ytname = "YT: Fenix_Programmer "
 global.socialm = "GitHub: Fenix-server"
-global.location = "srilanka, colombo, colombo"
+global.location = "Osogbo, Nigeria, Nigeria"
 
-global.ownernumber = '94773010580'  //creator number
-global.ownername = 'FENIX' //owner name
-global.botname = 'FENIX ID V17' //name of the bot
+global.ownernumber = '2349159895444'  //creator number
+global.ownername = 'PRECIOUS' //owner name
+global.botname = 'PRECIOUS ID V17' //name of the bot
 
 global.packname = 'V17'
 global.author = 'ꜰᴇɴɪx ɪᴅ ꜱᴇʀᴠᴇʀ : 🌍'
@@ -28,7 +28,7 @@ global.author = 'ꜰᴇɴɪx ɪᴅ ꜱᴇʀᴠᴇʀ : 🌍'
 global.themeemoji = '🪀'
 global.wm = "Its Fuck.inc."
 
-global.link = 'https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w'
+global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 
 
 global.prefa = ['','!','.','#','&']
@@ -55,7 +55,7 @@ global.mess = {
     error: 'ʏᴇʜ ɪ ɢᴇᴛ ᴇʀʀᴏʀ',
 }
 
-global.thumb = fs.readFileSync('./www-fucking/Fenix9991/dexDump/thumb.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/c3367b00001035677cc6b.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
